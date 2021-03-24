@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![software-engineers-vectors](https://user-images.githubusercontent.com/65956313/112352480-ccbe5f00-8cf0-11eb-9b81-3668edb85f40.png)
 
-My name is Akanksha Verma and I'm a Machine Learning and competitive programming enthusiast. I'm currently pursuing my undergraduate in Mechanical Engineering from IIT (BHU) Varanasi. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Akanksha Verma and I'm a Machine Learning and competitive programming enthusiast. I'm currently pursuing my undergraduate in Mechanical Engineering from IIT (BHU) Varanasi. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akanksha-verma-4b0b2b1a4/)
+&nbsp;
+
 
 ## &#x1f4c8; GitHub Stats
 
