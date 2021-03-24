@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![software-engineers-vectors](https://user-images.githubusercontent.com/65956313/112352480-ccbe5f00-8cf0-11eb-9b81-3668edb85f40.png)
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aka0909" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=aka0909" />
 
 
 <!--
