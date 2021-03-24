@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![software-engineers-vectors](https://user-images.githubusercontent.com/65956313/112352480-ccbe5f00-8cf0-11eb-9b81-3668edb85f40.png)
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=aka0909" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=aka0909" />
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aka0909&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akanksha's GitHub Stats" />
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka0909&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 <!--
